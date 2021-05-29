@@ -1,6 +1,6 @@
 ---
 name: Argument Entry Template
-about: ''
+about: 'About cannot be left blank -- watch me!'
 title: '(Write a short title for your argument)'
 labels: ''
 assignees: ''
