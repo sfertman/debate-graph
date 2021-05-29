@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
+name: Argument template
 about: Describe this issue template's purpose here.
-title: ''
+title: 'Argument Entry'
 labels: ''
 assignees: ''
 
