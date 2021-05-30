@@ -10,7 +10,7 @@ If you ever tried to follow an online (Twitter, Facebook, Whatever) argument (or
 The idea behind this "project" is to organize online debates into something that can be reasoned about by humans in a tractable manner. Each argument references an existing entry (issue) and is automatically linked by github so you can conveniently jump between them. When you start a new entry github will automatically suggest existing issues that it finds similar -- look closely and make sure you're actually making an original statement. If a poster/debater ignores the signs and posts anyway then this can be easily flagged as a dup and closed by others. Too many of these and repeated necromancers may find themselves out of the game...
 
 ## How to use this?
-Create a new repository using this template and you're all set to get started. This is a really early stage POC and it uses github actions as a "no code" solution. It's all very much based on a code of honour of sorts and expects everyone to behave according to the rules set by the moderator/repo owner. You make it your own. 
+Create a new repository using this template and you're all set to get started. This is a really early stage POC and it uses github issues as a "no code" solution. It's all very much based on a code of honour of sorts and expects everyone to behave according to the rules set by the moderator/repo owner. You make it your own. 
 
 However, I do have a few ideas on how I think it should work:
 
